@@ -1,0 +1,7 @@
+{
+  "source": "https://github.com/sharkdp/fd",
+  "commit": "ce97e473ebaec49697c07daa50a7bc2b32f713d2",
+  "license": "Apache-2.0",
+  "snapshot": "bounded source subset; workflows excluded",
+  "purpose": "Independent encrypted storage; not an upstream release or endorsement"
+}
